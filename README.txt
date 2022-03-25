@@ -1,0 +1,1 @@
+Contains a number of solutions to the problems from http://codekata.com/
